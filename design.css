@@ -1,0 +1,41 @@
+body {
+	background-color: yellow;
+}
+h1 {
+	color: red;
+ text-align: center;
+ background-color: blue;
+ font-style: bold;
+ font-size: 54px;
+
+}
+img {
+	height: 400px;
+
+
+}
+h2 {
+	text-decoration: none;
+	font-size: 46px;
+}
+a {
+	text-decoration: none;
+
+}
+div {
+	
+	background-color: black;
+}
+h3 {
+	font-size: 42px;
+}
+table {
+	border-color: black;
+	border-radius: 20px;
+	font-size: 30px;
+	float: right;
+	margin-right: 500px;
+	border-spacing: 20px;
+	background-color: green;
+	font-family: Kokonor;
+}
